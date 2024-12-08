@@ -33,24 +33,34 @@ Logical circuit of the above expressions is given below:
 ![image](https://github.com/naavaneetha/ENCODER8TO3DATAFLOW/assets/154305477/95acaee6-c873-4c75-89eb-ef09fb158053)
 
 Figure 02  Encoder 8 * 3
+![WhatsApp Image 2024-12-09 at 02 12 16_20fb0e92](https://github.com/user-attachments/assets/4a993465-677d-4b27-b065-97b09d8e8645)
+
 
 **Procedure**
-
-/* write all the steps invloved */
+1.Type the program in Quartus software.
+2.Compile and run the program. 
+3.Generate the RTL schematic and save the logic diagram. 
+4.Create nodes for inputs and outputs togenerate the timing diagram. 
+5.For different input combinations generate the timing diagram.
 
 **PROGRAM**
 
 /* Program for Encoder 8 To 3 in Dataflow Modelling and verify its truth table in quartus using Verilog programming. 
+![WhatsApp Image 2024-12-09 at 02 18 12_2509e526](https://github.com/user-attachments/assets/b9a9d9ff-5002-4508-8746-7278fba57e7b)
 
-Developed by: RegisterNumber:
+
+Developed by:Kowshika.R RegisterNumber:24001226
 */
 
 **RTL LOGIC FOR Encoder 8 To 3 in Dataflow Modelling**
+![WhatsApp Image 2024-12-09 at 02 12 17_6f849694](https://github.com/user-attachments/assets/d7aaec7c-4ecd-4866-9740-02d040352583)
+
 
 **TIMING DIGRAMS FOR Encoder 8 To 3 in Dataflow Modelling**
+![WhatsApp Image 2024-12-09 at 02 12 17_07c7fc3a](https://github.com/user-attachments/assets/64b4cc0f-a821-46c4-aa51-284889359d8c)
 
 **RESULTS**
-
+Thus,To implement  Encoder 8 To 3 in Dataflow Modelling using verilog and validating their functionality using their functional tables is verified.
 
 
 
